@@ -1,0 +1,7 @@
+{
+  "prompt": "A powerful, emotional visualization of COVID-19 pandemic waves. Show two massive cresting ocean waves made of thousands of white memorial candles, representing the two deadly peaks of COVID deaths in 2020-2021. The first wave (left side) and second wave (right side) tower above, with smaller ripples following them, symbolizing declining subsequent waves. Dark, dramatic seascape background. The candle flames create a glowing, heartbreaking pattern against the night sky. Photorealistic, cinematic, deeply moving, magazine cover quality. No text, no labels, no charts - pure visual metaphor.",
+  "model": "Ideogram 2",
+  "dataset_name": "COVID-19 Daily Deaths by Country",
+  "dataset_url": "https://ourworldindata.org/covid-deaths",
+  "insight": "COVID-19 deaths showed two major waves from January 2020 to January 2021, with the second wave being significantly deadlier, followed by gradually declining subsequent waves"
+}
