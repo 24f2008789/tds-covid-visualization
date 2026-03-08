@@ -1,0 +1,8 @@
+{
+  "prompt": "A Japanese ukiyo-e woodblock print in the style of Katsushika Hokusai depicting gradient descent. A single red sphere rolls down a stylized mountainous landscape, leaving a visible trail showing its iterative path downward. The mountain has multiple peaks and valleys with strong diagonal composition. The sphere follows a winding path from top-left to bottom-right, taking small steps at each iteration toward the deepest valley. Flat areas of unmodulated color in indigo blue, cream, and burnt sienna. Bold black outlines. Visible woodblock texture. No gradients, no shading - only flat color fields. Mount Fuji visible in distant background. Traditional ukiyo-e cartouche in corner. Edo period aesthetic, 1830s style.",
+  "model": "Ideogram 2",
+  "concept": "Gradient Descent",
+  "tradition_name": "Japanese Ukiyo-e Woodblock Prints",
+  "tradition_period": "1603-1868, specifically Edo period 1830s",
+  "tradition_approach": "Flat unmodulated color fields, bold black outlines, diagonal composition, visible woodblock texture, limited palette of indigo and earth tones, stark figure-ground contrast typical of Hokusai"
+}
