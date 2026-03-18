@@ -1,0 +1,7 @@
+{
+  "prompt": "A surreal seascape where massive waves are composed entirely of thousands of memorial candles instead of water. Three waves of increasing size curl and break, each wave made of densely packed glowing candles creating the fluid form of ocean waves. The largest wave dominates the composition with tens of thousands of individual candles. White doves scatter from the waves. Dramatic stormy sky, cinematic lighting, photorealistic candles forming an impossible wave structure. Memorial aesthetic meets natural disaster.",
+  "model": "Leonardo.ai Kino XL",
+  "dataset_name": "COVID-19 Deaths by Wave (US)",
+  "dataset_url": "https://covid.cdc.gov/covid-data-tracker/",
+  "insight": "Pandemic deaths arrived in three devastating waves, each surge larger and more deadly than the last"
+}
